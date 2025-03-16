@@ -1,4 +1,4 @@
-Software Development --------------------  * ✉️  You can contact me at [Drdslrzn@gmail.com](mailto:Drdslrzn@gmail.com)
+Hi 👋 My name is Eduardo Solórzano Santos =========================================  Software Development --------------------  * ✉️  You can contact me at [Drdslrzn@gmail.com](mailto:Drdslrzn@gmail.com)
 
 ### Skills  
 
