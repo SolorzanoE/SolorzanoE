@@ -1,4 +1,4 @@
-=========================================  Software Development --------------------  * ✉️  You can contact me at [Drdslrzn@gmail.com](mailto:Drdslrzn@gmail.com)
+Software Development --------------------  * ✉️  You can contact me at [Drdslrzn@gmail.com](mailto:Drdslrzn@gmail.com)
 
 ### Skills  
 
