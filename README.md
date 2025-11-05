@@ -1,6 +1,6 @@
 Software Development 
 --------------------  
-* ✉️  You can contact me at [Drdslrzn@gmail.com](mailto:Drdslrzn@gmail.com)
+* ✉️  You can contact me at [Eduardo.Solorzano.dev@gmail.com](mailto:Eduardo.Solorzano.dev@gmail.com)
 
 ### Skills  
 
