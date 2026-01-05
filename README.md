@@ -1,4 +1,4 @@
-Software Development 
+Software Engineer 
 --------------------  
 * ✉️  You can contact me at [Eduardo.Solorzano.Dev@gmail.com](mailto:eduardo.solorzano.dev@gmail.com)
 
