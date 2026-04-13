@@ -21,4 +21,4 @@ Ingeniero de Software apasionado por la tecnología y los modelos de negocio, si
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
-* ✉️  You can contact me at [Eduardo.Solorzano.Dev@gmail.com](mailto:eduardo.solorzano.dev@gmail.com)
+* ✉️  You can contact me at [Eduardo.solorzano.dev@gmail.com](mailto:eduardo.solorzano.dev@gmail.com)
